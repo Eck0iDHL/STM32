@@ -1,0 +1,16 @@
+/Debug/*
+/Release/*
+/.settings/*
+/.externalToolBuilders/*
+/.mxproject
+/mx.scratch
+/Inc/version.h
+/MDK-ARM/*
+/RTE/*
+*.scvd
+*.uvguix.*
+*Debug.cfg
+MRICamTSAppl.xml
+*.htm
+/Debug/
+*.launch
